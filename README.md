@@ -22,7 +22,7 @@ create method:post , lambda proxy integration, choose the function
 
 s3 , permissions:uncheck block public access
 
-properties, add index.html and import it
+properties, add index.html and import it, add bucket policy
 
 
 <img width="2824" height="1564" alt="image" src="https://github.com/user-attachments/assets/64a5158c-4c6c-4f23-9d22-21c7325bb166" />
