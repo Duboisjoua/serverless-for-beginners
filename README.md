@@ -11,3 +11,5 @@
       create a lambda to send a message coming from sqs to dynamodb
 
 <img width="1908" height="1048" alt="image" src="https://github.com/user-attachments/assets/5bad8ca4-8c6e-4ba8-aba0-6655c7b68e2b" />
+
+<img width="2824" height="1564" alt="image" src="https://github.com/user-attachments/assets/64a5158c-4c6c-4f23-9d22-21c7325bb166" />
