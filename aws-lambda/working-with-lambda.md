@@ -42,7 +42,7 @@ def lambda_handler(event, context):
 ```
 5. Run the following command in AWS CloudShell
 
-```aws lambda invoke --function-name <function-name> --payload fileb://payload.json response.json```
+```aws lambda invoke --function-name <function-name> --payload fileb://payload.json response.json  --region us-west-2```
 
 # Create an event notification for S3 upploads
 
