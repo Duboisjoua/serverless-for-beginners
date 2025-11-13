@@ -1,3 +1,5 @@
+<img width="2922" height="1512" alt="image" src="https://github.com/user-attachments/assets/ceb5989a-1096-48cd-97bf-fe612988e88c" />
+
 # Serverless Application with REST API – Part 1
 
 ## 1. Create the first Lambda function
