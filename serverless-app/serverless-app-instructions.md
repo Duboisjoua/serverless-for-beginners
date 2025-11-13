@@ -1,4 +1,5 @@
-<img width="2922" height="1512" alt="image" src="https://github.com/user-attachments/assets/ae301c22-4636-44e8-a321-da9740bd8649" />
+<img width="2922" height="1512" alt="image" src="https://github.com/user-attachments/assets/39fb0ec9-ddb8-4681-ae60-dcd78622f46a" />
+
 
 
 # Serverless Application with REST API – Part 1
