@@ -10,9 +10,12 @@
         "content":"Be Legendary"
     }
 
+    GET
+    will give you what is in dynamo
+    copy the id of one and update it with PUT
 
-
-
+    DELETE
+    copy id and paste
 
 
 
