@@ -1,0 +1,15 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "crud-api"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-japm0ytgb3is"
+s3_prefix = "crud-api"
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "Table=\"Posts\" Region=\"us-west-2\""
+image_repositories = []
+resolve_s3 = true
+confirm_changeset = true
+
+[default.global.parameters]
+region = "us-west-2"
